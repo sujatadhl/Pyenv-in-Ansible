@@ -1,0 +1,4 @@
+ansible_home: /root
+global_version: 3.9
+local_version: 3.8
+
